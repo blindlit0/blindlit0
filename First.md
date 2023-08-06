@@ -1,3 +1,3 @@
 # First
 
-I'm learning. Yaaay!
+I'm learning. Yay!
