@@ -4,12 +4,10 @@ I'm an **aspiring software engineer** passionate about building user-centric app
 
 ### 🔧 Tech Skills
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React
-- **Backend:** Node.js, Express.js, Django
-- **Database:** MySQL, SQLAlchemy
 - **Tools & Other Technologies:** Git, GitHub, Socket.io
 
 ### 🛠️ Projects
-- **[Code Haven](https://github.com/deezyfg/code-haven):** An interactive code editor and collaboration tool using Node.js, Express, React, and Socket.io.
+- **[Code Haven]([https://github.com/deezyfg/code-haven]):** An interactive code editor and collaboration tool using Node.js, Express, React, and Socket.io.
 
 ### 🌱 Currently Learning
 - **R for Biometry:** Expanding my skills in data analysis with a focus on biostatistics.
