@@ -20,12 +20,6 @@
 **Game Dev:** Unity (C#)  
 **Tools:** Git & GitHub, Vercel, Netlify, Firebase  
 
-## 📈 GitHub Stats
-
-![Napey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blindlit0&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindlit0&layout=compact&theme=radical)
-
 ## 🤝 Connect with Me
 
 📧 **Email:** [My Email](mailto:napeyfrederick@gmail.com)  
