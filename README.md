@@ -1,22 +1,39 @@
-# 👋 Hi, I'm Frederick Napey!
+# Hi there, I'm **Napey Frederick** 👋
 
-I'm an **aspiring software engineer** passionate about building user-centric applications with clean and intuitive designs. I love exploring new technologies and honing my skills in both frontend and backend development, constantly working on projects that challenge and excite me.
+![GitHub Banner](https://your-banner-image-url.com)  
 
-### 🔧 Tech Skills
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React
-- **Tools & Other Technologies:** Git, GitHub, Socket.io
+## 🚀 About Me
 
-### 🛠️ Projects
-- **[Code Haven](https://github.com/deezyfg/code-haven):** An interactive code editor and collaboration tool using Node.js, Express, React, and Socket.io.
+💻 **Sofware Developer** | 🎨 **Frontend Enthusiast** | 🎮 **Game Developer**  
+🔹 Passionate about **web development, UI/UX design, and interactive experiences**.  
+🔹 Always exploring **new technologies** and building awesome projects.  
+🔹 Interested in **open-source contributions** and learning from the dev community.  
 
-### 🌱 Currently Learning
-- **R for Biometry:** Expanding my skills in data analysis with a focus on biostatistics.
-- **Advanced React Concepts:** Exploring component architecture, hooks, and state management.
+## 📌 Featured Projects
 
-### 🎯 Goals
-- Master full-stack development and contribute to open-source projects.
-- Develop applications that make everyday life easier and more efficient.
-  
-Let's connect and collaborate on exciting projects!
+🔹 [**StashSmart**](https://github.com/yourusername/stashsmart) – A personal finance tracker 📊  
+🔹 [**Real Time Code Editor**](https://github.com/yourusername/real-time-code-editor) – A live collaborative code editor 💻  
+🔹 [**Bounce Clone (Unity)**](https://github.com/yourusername/bounce-clone) – A Unity game inspired by Bounce 🎮  
 
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, Tailwind CSS, JavaScript, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js, Django, MySQL  
+**Game Dev:** Unity (C#)  
+**Tools:** Git & GitHub, Vercel, Netlify, Firebase  
+
+## 📈 GitHub Stats
+
+![Napey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🤝 Connect with Me
+
+📧 **Email:** [napeyfrederick@gmail.com](mailto:your.email@example.com)  
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+💼 **LinkedIn:** [www.linkedin.com/in/frederick-napey-85426a287](https://linkedin.com/in/yourprofile)  
+🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+
+🔔 _Follow me on GitHub for more projects! ⭐_
 
