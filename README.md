@@ -1,7 +1,5 @@
 # Hi there, I'm **Napey Frederick** 👋
 
-![GitHub Banner](https://your-banner-image-url.com)  
-
 ## 🚀 About Me
 
 💻 **Sofware Developer** | 🎨 **Frontend Enthusiast** | 🎮 **Game Developer**  
@@ -11,9 +9,9 @@
 
 ## 📌 Featured Projects
 
-🔹 [**StashSmart**](https://github.com/yourusername/stashsmart) – A personal finance tracker 📊  
-🔹 [**Real Time Code Editor**](https://github.com/yourusername/real-time-code-editor) – A live collaborative code editor 💻  
-🔹 [**Bounce Clone (Unity)**](https://github.com/yourusername/bounce-clone) – A Unity game inspired by Bounce 🎮  
+🔹 [**Code Haven**](https://code-haven-wheat.vercel.app/) – a real-time collaborative code editor with features like syntax highlighting, code execution, and group chat. 📊  
+🔹 [**Stashsmart**](https://blindlit0.github.io/StashSmart/) – A live collaborative code editor 💻  
+🔹 [**Ballin**](https://ballinunity.netlify.app/) – A Unity game I made. 🎮  
 
 ## 🛠️ Tech Stack
 
@@ -24,16 +22,15 @@
 
 ## 📈 GitHub Stats
 
-![Napey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Napey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blindlit0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindlit0&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
 
-📧 **Email:** [napeyfrederick@gmail.com](mailto:your.email@example.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-💼 **LinkedIn:** [www.linkedin.com/in/frederick-napey-85426a287](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+📧 **Email:** [My Email](mailto:napeyfrederick@gmail.com)  
+💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)  
+🌐 **Portfolio:** [MyPortfolio](https://fredportfoliosite.vercel.app/)  
 
 🔔 _Follow me on GitHub for more projects! ⭐_
 
