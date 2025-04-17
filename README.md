@@ -23,7 +23,7 @@
 ## 🤝 Connect with Me
 
 📧 **Email:** [My Email](mailto:napeyfrederick@gmail.com)  
-💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/frederick-napey-85426a287/)  
 🌐 **Portfolio:** [MyPortfolio](https://fredportfoliosite.vercel.app/)  
 
 🔔 _Follow me on GitHub for more projects! ⭐_
